@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1705502148 source:c:\users\narmeen mousa\desktop\semester 2021-2022\data structures and algorithms\p1_1191656_narmeenmousa_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1705505748 source:c:\users\narmeen mousa\desktop\birzeit\semester 2021-2022\data structures and algorithms\p1_1191656_narmeenmousa_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
